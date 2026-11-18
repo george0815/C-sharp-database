@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bD1xWhKR4kE=",
+  "success": true,
+  "projectFilePath": "/run/media/Hunter/Programming/C#-database/C-sharp-database/C-sharp-database.csproj",
+  "expectedPackageFiles": [
+    "/home/Hunter/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
