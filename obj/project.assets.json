@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/Hunter/Programming/C#-database/C-sharp-database/C-sharp-database.csproj",
+      "projectUniqueName": "/run/media/Hunter/Programming/Github/C-sharp-database/C-sharp-database.csproj",
       "projectName": "C-sharp-database",
-      "projectPath": "/run/media/Hunter/Programming/C#-database/C-sharp-database/C-sharp-database.csproj",
+      "projectPath": "/run/media/Hunter/Programming/Github/C-sharp-database/C-sharp-database.csproj",
       "packagesPath": "/home/Hunter/.nuget/packages/",
-      "outputPath": "/run/media/Hunter/Programming/C#-database/C-sharp-database/obj/",
+      "outputPath": "/run/media/Hunter/Programming/Github/C-sharp-database/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/Hunter/.nuget/NuGet/NuGet.Config"
@@ -60,12 +60,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[10.0.13, 10.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

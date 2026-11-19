@@ -1,0 +1,15 @@
+/run/media/Hunter/Programming/Github/C-sharp-database/bin/Debug/net10.0/C-sharp-database
+/run/media/Hunter/Programming/Github/C-sharp-database/bin/Debug/net10.0/C-sharp-database.deps.json
+/run/media/Hunter/Programming/Github/C-sharp-database/bin/Debug/net10.0/C-sharp-database.runtimeconfig.json
+/run/media/Hunter/Programming/Github/C-sharp-database/bin/Debug/net10.0/C-sharp-database.dll
+/run/media/Hunter/Programming/Github/C-sharp-database/bin/Debug/net10.0/C-sharp-database.pdb
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.AssemblyInfoInputs.cache
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.AssemblyInfo.cs
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.csproj.CoreCompileInputs.cache
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.sourcelink.json
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.dll
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/refint/C-sharp-database.dll
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.pdb
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/C-sharp-database.genruntimeconfig.cache
+/run/media/Hunter/Programming/Github/C-sharp-database/obj/Debug/net10.0/ref/C-sharp-database.dll
